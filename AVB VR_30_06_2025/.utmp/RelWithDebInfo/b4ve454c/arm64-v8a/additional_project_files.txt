@@ -1,0 +1,17 @@
+/Users/shunyamstudio/Desktop/Unity Project/AVB VR_05_06_2025/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/GAToUnityCallbacks.h
+/Users/shunyamstudio/Desktop/Unity Project/AVB VR_05_06_2025/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/MacroEnd.h
+/Users/shunyamstudio/Desktop/Unity Project/AVB VR_05_06_2025/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/MacroHeaderBegin.h
+/Users/shunyamstudio/Desktop/Unity Project/AVB VR_05_06_2025/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/MacroSourceBegin.h
+/Users/shunyamstudio/Desktop/Unity Project/AVB VR_05_06_2025/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGAApplication.h
+/Users/shunyamstudio/Desktop/Unity Project/AVB VR_05_06_2025/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGAConfiguration.h
+/Users/shunyamstudio/Desktop/Unity Project/AVB VR_05_06_2025/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGADebug.h
+/Users/shunyamstudio/Desktop/Unity Project/AVB VR_05_06_2025/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGAEvents.h
+/Users/shunyamstudio/Desktop/Unity Project/AVB VR_05_06_2025/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGAInput.h
+/Users/shunyamstudio/Desktop/Unity Project/AVB VR_05_06_2025/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGASoftKeyboard.h
+/Users/shunyamstudio/Desktop/Unity Project/AVB VR_05_06_2025/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGASoftKeyboardCallbacks.h
+/Users/shunyamstudio/Desktop/Unity Project/AVB VR_05_06_2025/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGATypes.h
+/Users/shunyamstudio/Desktop/Unity Project/AVB VR_05_06_2025/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGAVersion.h
+/Users/shunyamstudio/Desktop/Unity Project/AVB VR_05_06_2025/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UnityToGACallbacks.h
+/Users/shunyamstudio/Desktop/Unity Project/AVB VR_05_06_2025/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UnityToGAConfigurationCallbacks.h
+/Users/shunyamstudio/Desktop/Unity Project/AVB VR_05_06_2025/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UnityToGAKeyEventCallbacks.h
+/Users/shunyamstudio/Desktop/Unity Project/AVB VR_05_06_2025/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UnityToGAMotionEventCallbacks.h

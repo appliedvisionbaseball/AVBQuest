@@ -1,0 +1,2 @@
+C:\Users\mitta\OneDrive\Desktop\Unity Project\AVB\AVB VR_21_06_2025\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\mitta\OneDrive\Desktop\Unity Project\AVB\AVB VR_21_06_2025\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

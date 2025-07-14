@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{9BC93762-E311-7D2E-D78D-1CB68EDC1D00}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_AVB VR/Script/BaseballControllerForPostup.cs">
+    <Files>
+      <File FileName="Assets/_AVB VR/Script/GameStarter.cs" Line="224" Column="1" />
+      <File FileName="Assets/_AVB VR/Script/PitchTypeDrillResultHandler.cs" Line="36" Column="44" />
+      <File FileName="Assets/_AVB VR/Script/PostupDrillResultHandler.cs" Line="24" Column="36" />
+      <File FileName="Assets/_AVB VR/Script/BaseballControllerForPostup.cs" Line="45" Column="47" />
+      <File FileName="Assets/_AVB VR/Script/BaseballController.cs" Line="214" Column="142" />
+      <File FileName="Assets/_AVB VR/Script/AudioHandler.cs" Line="69" Column="11" />
+      <File FileName="Assets/_AVB VR/Script/VisualDrillHandler.cs" Line="117" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4fd4bd01-1d36-4123-963f-438df80d07d1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

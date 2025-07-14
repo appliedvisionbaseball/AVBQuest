@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{5ECD1258-1121-C0E3-40F6-70D6A087B027}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_AVB VR/Script/BaseballController.cs">
+    <Files>
+      <File FileName="Assets/BNG Framework/Scripts/Core/InputBridge.cs" Line="913" Column="1" />
+      <File FileName="Assets/Oculus/VR/Editor/OVRProjectSetup/Tasks/Implementations/OVRProjectSetupRenderingTasks.cs" />
+      <File FileName="Assets/_AVB VR/Script/GameStarter.cs" />
+      <File FileName="Assets/_AVB VR/Script/BaseballController.cs" Line="282" Column="42" />
+      <File FileName="Assets/Oculus/SampleFramework/Editor/OculusSampleFrameworkUtil.cs" />
+      <File FileName="Library/PackageCache/com.unity.xr.core-utils@c0df0dd5bced/Editor/ProjectValidation/BuildValidator.cs" />
+      <File FileName="Assets/BNG Framework/Scripts/Components/Tooltip.cs" />
+      <File FileName="Assets/_AVB VR/Script/LineConnector.cs" />
+      <File FileName="Assets/_AVB VR/Script/CheckEnable.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ee086062-752e-47fe-85d9-7a413df80e6c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

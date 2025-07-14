@@ -1,0 +1,2 @@
+/Users/shunyamstudio/Desktop/Unity Project/AVB VR_23_05_2025/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/CMakeLists.txt
+/Users/shunyamstudio/Desktop/Unity Project/AVB VR_23_05_2025/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/CMakeLists.txt

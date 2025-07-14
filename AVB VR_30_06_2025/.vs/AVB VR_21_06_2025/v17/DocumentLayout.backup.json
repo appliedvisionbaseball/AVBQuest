@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mitta\\OneDrive\\Desktop\\Unity Project\\AVB\\AVB VR_21_06_2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{870C0012-5C59-DE98-5178-393148186F05}|Assembly-CSharp.csproj|C:\\Users\\mitta\\OneDrive\\Desktop\\Unity Project\\AVB\\AVB VR_21_06_2025\\assets\\_avb vr\\script\\baseballcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870C0012-5C59-DE98-5178-393148186F05}|Assembly-CSharp.csproj|solutionrelative:assets\\_avb vr\\script\\baseballcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870C0012-5C59-DE98-5178-393148186F05}|Assembly-CSharp.csproj|c:\\users\\mitta\\onedrive\\desktop\\unity project\\avb\\avb vr_21_06_2025\\assets\\_avb vr\\script\\baseballcontrollerforpostup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870C0012-5C59-DE98-5178-393148186F05}|Assembly-CSharp.csproj|solutionrelative:assets\\_avb vr\\script\\baseballcontrollerforpostup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870C0012-5C59-DE98-5178-393148186F05}|Assembly-CSharp.csproj|C:\\Users\\mitta\\OneDrive\\Desktop\\Unity Project\\AVB\\AVB VR_21_06_2025\\assets\\_avb vr\\script\\gamestarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870C0012-5C59-DE98-5178-393148186F05}|Assembly-CSharp.csproj|solutionrelative:assets\\_avb vr\\script\\gamestarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseballControllerForPostup.cs",
+              "DocumentMoniker": "C:\\Users\\mitta\\OneDrive\\Desktop\\Unity Project\\AVB\\AVB VR_21_06_2025\\Assets\\_AVB VR\\Script\\BaseballControllerForPostup.cs",
+              "RelativeDocumentMoniker": "Assets\\_AVB VR\\Script\\BaseballControllerForPostup.cs",
+              "ToolTip": "C:\\Users\\mitta\\OneDrive\\Desktop\\Unity Project\\AVB\\AVB VR_21_06_2025\\Assets\\_AVB VR\\Script\\BaseballControllerForPostup.cs",
+              "RelativeToolTip": "Assets\\_AVB VR\\Script\\BaseballControllerForPostup.cs",
+              "ViewState": "AgIAAJ8EAAAAAAAAAAAuwLoEAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T13:28:39.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameStarter.cs",
+              "DocumentMoniker": "C:\\Users\\mitta\\OneDrive\\Desktop\\Unity Project\\AVB\\AVB VR_21_06_2025\\Assets\\_AVB VR\\Script\\GameStarter.cs",
+              "RelativeDocumentMoniker": "Assets\\_AVB VR\\Script\\GameStarter.cs",
+              "ToolTip": "C:\\Users\\mitta\\OneDrive\\Desktop\\Unity Project\\AVB\\AVB VR_21_06_2025\\Assets\\_AVB VR\\Script\\GameStarter.cs",
+              "RelativeToolTip": "Assets\\_AVB VR\\Script\\GameStarter.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwGAAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T06:58:49.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseballController.cs",
+              "DocumentMoniker": "C:\\Users\\mitta\\OneDrive\\Desktop\\Unity Project\\AVB\\AVB VR_21_06_2025\\Assets\\_AVB VR\\Script\\BaseballController.cs",
+              "RelativeDocumentMoniker": "Assets\\_AVB VR\\Script\\BaseballController.cs",
+              "ToolTip": "C:\\Users\\mitta\\OneDrive\\Desktop\\Unity Project\\AVB\\AVB VR_21_06_2025\\Assets\\_AVB VR\\Script\\BaseballController.cs",
+              "RelativeToolTip": "Assets\\_AVB VR\\Script\\BaseballController.cs",
+              "ViewState": "AgIAAJ8EAAAAAAAAAAAwwKIEAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T06:58:20.85Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
